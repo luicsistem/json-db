@@ -8,7 +8,12 @@
             "rating": 45,
             "titulo": "Cariño y cuidado como en casa.",
             "descripcion": "Hola me llamo Lucia me encantan los animales y desde pequeña tengo una gran conexión con ello.",
-            "foto":  "https://upload.wikimedia.org/wikipedia/commons/9/91/Park_Ji-min_%28female_singer%29_2018.png"
+            "foto":  "https://upload.wikimedia.org/wikipedia/commons/9/91/Park_Ji-min_%28female_singer%29_2018.png",
+             "nombreMask": ["doggy", "reina"],
+            "fotoMask": ["https://www.diarioinformacion.com/elementosWeb/gestionCajas/MMP/Image/2016/perros.jpg", 
+             "https://cdn.mequieroir.com/wp-content/uploads/2019/10/mascota-espana-blanca-1024x639.jpg"
+            ],
+            
         },
         {
             "id": 2,
@@ -18,7 +23,11 @@
             "rating": 40,
             "titulo": "Cuidador perros zona norte - Independencia.",
             "descripcion": "Me llamo Sandra, me encantan los perros desde siempre :) He tenido 3 teckels de pelo duro.",
-            "foto":  "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lele_Pons.png"
+            "foto":  "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lele_Pons.png",
+             "nombreMask": ["doggy", "reina"],
+            "fotoMask": ["https://www.diarioinformacion.com/elementosWeb/gestionCajas/MMP/Image/2016/perros.jpg", 
+             "https://cdn.mequieroir.com/wp-content/uploads/2019/10/mascota-espana-blanca-1024x639.jpg"
+            ],
         },
         {
             "id": 3,
@@ -28,7 +37,11 @@
             "rating": 38,
             "titulo": "Paseo perros en San martin de Porres.",
             "descripcion": "Soy Juan Obregon, arquitecto y amante de los perros.",
-            "foto":  "https://upload.wikimedia.org/wikipedia/commons/8/86/Timothy_Caulfield.png"
+            "foto":  "https://upload.wikimedia.org/wikipedia/commons/8/86/Timothy_Caulfield.png",
+              "nombreMask": ["doggy", "reina"],
+            "fotoMask": ["https://www.diarioinformacion.com/elementosWeb/gestionCajas/MMP/Image/2016/perros.jpg", 
+             "https://cdn.mequieroir.com/wp-content/uploads/2019/10/mascota-espana-blanca-1024x639.jpg"
+            ],
         },
         {
             "id": 4,
@@ -38,7 +51,11 @@
             "rating": 42,
             "titulo": "Cuidador - Adiestrador.",
             "descripcion": "He tenido a mi cuidado perros que han sido maltratados, rescatados de malas condiciones. Para mi los perritos son mi vida, me llenan de alegría....",
-            "foto":  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jos%C3%A9_Restrepo.png"
+            "foto":  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jos%C3%A9_Restrepo.png",
+              "nombreMask": ["doggy", "reina"],
+            "fotoMask": ["https://www.diarioinformacion.com/elementosWeb/gestionCajas/MMP/Image/2016/perros.jpg", 
+             "https://cdn.mequieroir.com/wp-content/uploads/2019/10/mascota-espana-blanca-1024x639.jpg"
+            ],
         }
     ]
 }
